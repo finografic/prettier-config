@@ -1,0 +1,18 @@
+{
+    "name": "prettier-config",
+    "version": "1.0.0",
+    "description": "Custom finografic Prettier configuration",
+    "author": {
+        "name": "Justin Blair Rankin",
+        "email": "justin.blair.rankin@gmail.com",
+        "url": "http://finografic.github.io/cv-justin-rankin"
+    },
+    "main": "prettier-config.json",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/finografic/prettier-config.git"
+    },
+    "prettier-config-to-add": "@finografic/prettier-config",
+    "READ-THIS": "https://prettier.io/docs/en/precommit.html",
+    "license": "MIT"
+}
